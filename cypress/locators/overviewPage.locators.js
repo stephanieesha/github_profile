@@ -1,0 +1,5 @@
+export const pinnedRepos  = '.repo'
+export const overviewPage = 'a[class="url fn"]'
+export const repositories = 'a[href*="stephanieesha?tab=repositories"]'
+export const searchRepos  = '#your-repos-filter'
+export const searchResult = '.wb-break-all'
